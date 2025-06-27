@@ -1,0 +1,13 @@
+{ "food": {
+    "Sandwich": 5.99,
+    "Cake": 4.5,
+    "Cookies": 2.99,
+    "Salad": 6.99
+  },
+  "drinks": {
+    "Coffee": 3.5,
+    "Tea": 2.99,
+    "Hot Chocolate": 3.99,
+    "Juice": 2.5
+  }
+}

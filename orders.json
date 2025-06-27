@@ -1,0 +1,35 @@
+[
+  {
+    "food": [
+      "Sandwich",
+      "Cookies"
+    ],
+    "drinks": [
+      "Hot Chocolate",
+      "Juice"
+    ],
+    "books": [
+      "To Kill a Mockingbird"
+    ],
+    "total": 30.46,
+    "name": "Bruce Wayne",
+    "address": "Gotham Knight City",
+    "phone": "07965131248"
+  },
+  {
+    "food": [
+      "Cake"
+    ],
+    "drinks": [
+      "Coffee",
+      "Hot Chocolate"
+    ],
+    "books": [
+      "Lolita"
+    ],
+    "total": 23.98,
+    "name": "Peter Parker",
+    "address": "Spider universe brooklyn",
+    "phone": "07431795218"
+  }
+]
