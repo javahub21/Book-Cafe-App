@@ -1,2 +1,5 @@
 # Book-Cafe-App
-Python/JSON book cafe app project, I altered and re-coded to store data/details in JSON files
+Python/JSON web app of AWS Bootcamp final project book cafe app, I altered and re-coded so
+customers details are stored and retrieved from a JSON file, added cafe logo
+
+Updates: Minor alterations to the app
