@@ -110,6 +110,16 @@ def view_orders():
         print(f"Total: £{order['total']:.2f}")
 
 def main():
+    print(r"""
+        (( ((
+          )) ))
+        ..........
+        | Book   |]
+        |  Café  |]
+        |___APP__|
+         |      |
+        (________)
+            """)
     while True:
         print("1. Customer\n2. Employee\n3. Exit")
         choice = input("Select: ")
@@ -131,28 +141,10 @@ def main():
                 elif e == '2': view_orders()
                 elif e == '3': break
         elif choice == '3':
-            print("Appreciate your visit today! on Book Cafe App")
+            print("\n****Thank you and visit Book Cafe App again soon!****\n")
             break
         else:
             print("Invalid input")
 
-#book cafe app logo
-
-def print_logo():
-    logo = r"""
-      (( ((
-       )) ))
-    ..........
-    | Book   |]
-    |  Café  |]
-    |___APP__|
-      |    |
-     (______)
-    """
-    print(logo)
-
-if __name__ == "__main__":
-    print_logo()
-
-if __name__ == "__main__":
-    main()
+if __name__ == main():
+    main(__name__)
